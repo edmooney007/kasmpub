@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://github.com/edmooney007/kasmpub/issues',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.1',
+  basePath: '/kasmpub/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
